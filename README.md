@@ -1,2 +1,2 @@
 # Regreesion
-assignment  of Regreesion
+IT INCLUDE SIMPLE LINEAR REGRESSION MODEL 
